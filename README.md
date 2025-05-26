@@ -1,2 +1,24 @@
-# AVeryPersonalReview_InkEdition
-A fully HTML-only remake of "aVeryPersonalReview", reimagined as a deteriorated ink-stained notebook.
+# aVeryPersonalReview – Ink Edition
+
+이 프로젝트는 기존 "aVeryPersonalReview" 사이트를  
+**순수 HTML만으로 재구성**한 리마스터 버전입니다.  
+CSS도, JavaScript도 사용하지 않습니다.  
+오직 HTML 태그만으로 디자인과 표현력을 실험합니다.
+
+## ✨ 컨셉
+- 외부 스타일이나 스크립트 없이, HTML 하나로만 구성
+- 잉크 번진 느낌, 열화된 종이, 낡은 노트 또는 액자 같은 시각적 표현
+- `<hr>`, `<table>`, `<blockquote>` 등 옛 HTML 태그를 적극 활용하여 미니멀하고 감성적인 구성
+
+## 🎯 목표
+- HTML 마크업만으로 얼마나 표현력이 가능한지를 실험
+- AVPR의 기존 리뷰 콘텐츠를 순수 HTML 형식으로 이식
+- 향수를 자극하는 감성적이고, 기술적으로는 “완전한 정적 구조” 실현
+
+## 🧱 구성
+- `index.html` 단일 파일 기반
+- CSS, JS 전혀 없음
+- 모든 시각 효과는 HTML 자체의 표현만으로 구현
+
+## 📎 기타
+- 이 프로젝트는 실험적 성격을 가지며, 가볍고 순수한 웹의 형태를 추구합니다.
